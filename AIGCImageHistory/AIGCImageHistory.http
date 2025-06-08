@@ -1,0 +1,6 @@
+@AIGCImageHistory_HostAddress = http://localhost:5003
+
+GET {{AIGCImageHistory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
